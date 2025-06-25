@@ -20,7 +20,7 @@ CSS3 — Estilização responsiva e layout intuitivo
 
 JavaScript (Vanilla JS) — Manipulação do DOM e lógica da aplicação
 
-💡 Aprendizados
+# 💡 Aprendizados
 Este projeto foi desenvolvido com o objetivo de praticar os fundamentos da programação front-end, incluindo:
 
 Manipulação de elementos no DOM
