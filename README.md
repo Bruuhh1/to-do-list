@@ -1,4 +1,4 @@
-✅ To-Do List
+# To-Do List
 
 Uma aplicação simples e funcional de lista de tarefas, desenvolvida com HTML, CSS e JavaScript puro (Vanilla JS). O projeto permite adicionar, marcar como concluídas e remover tarefas, com dados armazenados localmente no navegador usando localStorage.
 
